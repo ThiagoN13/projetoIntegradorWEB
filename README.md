@@ -8,7 +8,7 @@
 
 Vale ressaltar que scripts de javascript devem ser inseridos em um arquivo chamado *js.includes.php* que deverá se localizar na mesma pasta em que o *index.php* o referencia.
 
-Esse arquivo visa a inserção dos scripts imediatamente antes do fechamento da tag <pre>body</pre>.
+Esse arquivo visa a inserção dos scripts imediatamente antes do fechamento da tag *body*.
 
 <hr>
 
