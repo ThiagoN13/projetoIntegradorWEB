@@ -2,7 +2,7 @@
 
 **O modelo consiste em dividir as páginas em seções**
 
-<pre>As básicas são: *Header* , *CORPO* e *footer*</pre>
+<pre>As básicas são: <i>Header</i> , <i>CORPO</i> e <i>footer</i></pre>
 
 *As partes supracitadas são auto-explicativas.*
 
