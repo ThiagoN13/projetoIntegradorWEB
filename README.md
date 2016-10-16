@@ -19,12 +19,13 @@ Contará com, pelo menos, três situações.
 	referentes ao usuário, i.e., C.P.F., residência, porte de
 	necessidade especial, dentre outros.
 
-	2)  Pesquisa no ponto: Página que irá mostrar, na parte superior, uma
+	2) Pesquisa no ponto: Página que irá mostrar, na parte superior, uma
 	porção da região atual do usuário utilizando a API do Google Maps
 	juntamente com o GeoLocalization do HTML5 + JS. O usuário só
 	conseguirá acessar o conteúdo caso tenha permitido a coleta de sua
-	informação de posição.  
-	  A parte centro-inferior mostrará a lista ( conteúdo ) dos ônibus
-	  que passarão no dito ponto bem como seu tempo de chegada e sua
-	  lotação.  
+	informação de posição.
+
+	A parte centro-inferior mostrará a lista ( conteúdo ) dos ônibus
+	que passarão no dito ponto bem como seu tempo de chegada e sua
+	lotação.
 </pre>
